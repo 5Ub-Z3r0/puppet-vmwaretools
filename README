@@ -1,0 +1,8 @@
+puppet-vmwaretools
+
+This module handles the installation the VMware Tools Operating System Specific
+Packages.  http://packages.vmware.com/
+
+On Debian like operating systems, it installs the open-vm-tools package.
+
+Tested on RHEL and CentOS (5.x and 6.x for both), and Debian squeeze.
