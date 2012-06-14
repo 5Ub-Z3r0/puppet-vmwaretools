@@ -1,15 +1,15 @@
 {
   "name": "puppet-vmwaretools",
   "author": "5Ub-Z3r0",
-  "description": "This module handles installing the VMware Tools Operating System Specific\nPackages.  http://packages.vmware.com/\n\nOn Debian like operating systems, it installs the open-vm-tools package.\n\nTested on RHEL and CentOS (5.x and 6.x for both), and Debian squeeze.",
+  "description": "This module handles the installation the VMware Tools Operating System Specific\nPackages.  http://packages.vmware.com/\n\nOn Debian like operating systems, it installs the open-vm-tools package.\n\nTested on RHEL and CentOS (5.x and 6.x for both), and Debian squeeze.",
   "license": "GPL v3",
   "project_page": "https://github.com/5Ub-Z3r0/puppet-vmwaretools",
   "source": "https://github.com/5Ub-Z3r0/puppet-vmwaretools.git",
   "summary": "A module to manage vmware OSP tools",
   "version": "0.2.1",
   "checksums": {
-    "Modulefile": "7ef0bac68405d067c5c0af1d6ae8f165",
-    "README": "03f3761ca1c1c900ba8d8f30dc184562",
+    "Modulefile": "55f372139f92118fd0d48d2c5d701fe2",
+    "README": "0bd132f544230313ac23b3ad43bb57c9",
     "manifests/init.pp": "aadc5256b7b43d5931df319df6e599ff",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
